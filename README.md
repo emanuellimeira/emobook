@@ -1,3 +1,3 @@
-# foobar
+# Emobook
 
-a [Sails](http://sailsjs.org) application
+First [Sails](http://sailsjs.org) application.
